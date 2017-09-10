@@ -1,2 +1,6 @@
-# make
-Makefiles
+make
+====
+
+> Personal makefiles for [Modern Make](https://github.com/tj/mmake).
+
+___
